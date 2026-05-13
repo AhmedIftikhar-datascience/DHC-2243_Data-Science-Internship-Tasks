@@ -16,7 +16,7 @@ This repository contains the completed tasks for the Data Science internship. I 
 4. **Task 4: Insurance Claims** (Medical Cost Prediction)
 5. **Task 5: Loan Acceptance** (Personal Loan Prediction)
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Python
 * **Environment:** Jupyter Notebook
 * **Libraries:** Pandas, Seaborn, Matplotlib, Scikit-Learn
