@@ -1,15 +1,15 @@
 # Data Science & Analytics Internship Tasks
 **DevelopersHub Corporation**
 
-## 👤 Intern Information
+## Intern Information
 * **Name:** Ahmed Iftikhar
 * **ID:** DHC-2243
 
 
-## 🎯 Project Summary
+## Project Summary
 This repository contains the completed tasks for the Data Science internship. I have completed **all 5 tasks**, covering data exploration, classification, and regression.
 
-### 📋 Tasks Overview
+### Tasks Overview
 1. **Task 1: Iris Exploration** (Data Visualization)
 2. **Task 2: Credit Risk** (Loan Default Prediction)
 3. **Task 3: Customer Churn** (Bank Customer Analysis)
